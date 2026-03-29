@@ -1,6 +1,3 @@
----
-
-# `api-contracts-v3.md`
 
 ```markdown
 ## 1. Общие правила
